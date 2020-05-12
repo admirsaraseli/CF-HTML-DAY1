@@ -1,0 +1,19 @@
+header {
+	background-color: black;
+	padding:  no-padding;
+}
+
+header h1 {
+	color: white;
+}
+
+header p {
+	color: white;
+	display:  inline-block;
+}
+
+span {
+	display: inline-block;
+	align-items: center;
+
+}
